@@ -1,6 +1,7 @@
 <nav class="bg-black border-b border-gray-700">
     <div class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
         <span class="self-center text-2xl font-semibold">One-stop-fitness</span>
+        
         <button id="menu-toggle" type="button" class="inline-flex items-center p-2 w-10 h-10 justify-center text-white rounded-lg md:hidden hover:bg-gray-800 focus:outline-none focus:ring-2 focus:ring-gray-600">
             <span class="sr-only">menu</span>
             <svg class="w-5 h-5" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 17 14">
